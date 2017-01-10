@@ -1,1 +1,2 @@
 init.txt file
+michal - line one 
